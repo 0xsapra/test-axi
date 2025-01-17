@@ -1,0 +1,54 @@
+install and uninstall axi client 
+delete axi client binary
+add binary
+add large files
+add git-ls wali files
+add git submodule 
+----
+git init
+git push --set-upstream [remote] [branch]
+git fetch [remote]
+git push -f
+git push
+git rebase [branch]
+git cherry-pick [commit]
+git config --list
+git rebase -i [commit]
+git bisect start
+git submodule add [url]
+git submodule update --init
+git archive
+git push origin --tags
+git push --all
+git push --force-with-lease
+git push --dry-run 
+git push origin [branch_name]:[remote_branch_name]
+git push origin HEAD:[remote_branch_name]
+git push origin --delete [branch_name]
+git push origin :[branch_name]
+git push origin --tags
+git push origin --delete [tag_name]
+git push https://[username]@[remote-url]
+git push ssh://[username]@[remote-url]
+git push origin [refs/heads/branch_name]
+git push origin [refs/heads/branch_name]:[refs/remotes/origin/branch_name]
+git push --depth=[n]
+git push --unshallow
+git push origin HEAD:${GITHUB_REF} -f
+----
+
+change origin
+delete origin
+
+---
+
+run different 
+ - git clients like github desktop
+ - 
+
+---
+
+time difference with and without
+
+
+
