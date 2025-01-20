@@ -6,7 +6,7 @@ secret = ""
 """
 [default]
 aws_access_key_id = AKIAT4GVSAXXDHZEIEEU
-aws_secret_access_key = p455w0rd
+aws_secret_access_key = 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
 output = json
 region = us-east-2
 """
